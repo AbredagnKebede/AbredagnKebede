@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @AbredagnKebede
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning software engineering at Adama science and technology university
-- 💞️ I’m looking to collaborate on machine learning project
